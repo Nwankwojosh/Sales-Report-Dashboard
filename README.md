@@ -1,10 +1,8 @@
 # Sales-Report-Dashboard
 This dashboard provides an analytical summary of sales performance for the year 2022. It includes revenue insights, product performance, payment method distributions, and manager contributions.
-
 <img width="960" alt="OBI wkend assignment 15-02-2025 - Excel 2_24_2025 1_34_30 PM" src="https://github.com/user-attachments/assets/4a4e8266-54cf-4c4f-89e9-55299e95546e" />
 
 # Sales Report 2022 - Dashboard Insights
-
 
 ## Overview
 This dashboard provides an analytical summary of sales performance for the year 2022. It includes revenue insights, product performance, payment method distributions, and manager contributions.
